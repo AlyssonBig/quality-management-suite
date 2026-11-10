@@ -1,0 +1,11 @@
+PILOTO DEMONSTRATIVO - dados de ocorrências fictícios. Apenas os seis números de itens foram informados como reais.
+
+Abra index.html diretamente no navegador, mesmo sem internet: a base de demonstração está incorporada ao HTML.
+O arquivo banco_de_dados.csv é uma cópia editável dos mesmos registros. Para atualizar, use Importar Excel / CSV no aplicativo. Essa importação é válida na sessão atual e não grava alterações automaticamente no HTML nem no CSV.
+Para transferir para outro computador, copie a pasta inteira ou apenas index.html para consultar a base original.
+Não usar como registro oficial de qualidade.
+
+IMAGENS: Todos os 66 registros possuem ilustrações demonstrativas incorporadas ao HTML. Não são fotografias de não conformidades reais e não devem ser usadas como evidências de inspeção.
+
+NOVO: menu Indicadores da Qualidade abre gráficos calculados automaticamente com a base atualmente carregada.
+Os dados são demonstrativos. O painel funciona offline e não exige bibliotecas externas.
