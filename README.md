@@ -81,3 +81,22 @@ Os aplicativos representam propostas de soluções digitais e não devem ser int
 Profissional da área da Qualidade, com interesse em melhoria contínua, análise de dados, processos industriais e desenvolvimento de soluções digitais.
 
 [LinkedIn](https://www.linkedin.com/in/alysson-goncalves/)
+
+---
+
+## Demonstração Visual dos Aplicativos
+
+### Aplicativo Desktop — Python
+
+![Interface ilustrativa do aplicativo Python](screenshots/aplicativo-python.png)
+
+Protótipo desenvolvido em Python e Kivy para registro, organização e acompanhamento de processos da qualidade industrial.
+
+### Aplicativo Web — HTML
+
+![Interface ilustrativa do aplicativo HTML](screenshots/aplicativo-html.png)
+
+Protótipo de consulta de não conformidades, histórico de ocorrências, seleções e indicadores da qualidade.
+
+*As imagens são representações ilustrativas baseadas nos aplicativos desenvolvidos e podem apresentar diferenças em relação às interfaces reais.*
+  
